@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ThreadedScan.C": "cpp",
+			"scan.C": "cpp"
+		}
+	}
+}
